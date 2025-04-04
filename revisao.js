@@ -78,3 +78,4 @@ const adivinhas = () => {
     let y = 0;
     (alert(y) === x) ? console.log('você acertou') : console.log('você errou');
 }
+
